@@ -8,7 +8,7 @@ I'm Timo and this are Informations about me and my Projekts!
 - 🤖 ⨯ Exampler [Discord Bot - Verifiziert]
 - 📌 ⨯ https://www.tagulen.de/ | https://www.exampler.de/ [Domains]
 - 📞 ⨯ kontakt.toxy@gmail.com [Mail]
-- 💾 ⨯ Discord-Bots, Minecraft-Plugins, Kleine-Websiten (Python/JavaScript, Java, HTML/CSS) [Coding-Projekte/Sprachen]
+- 💾 ⨯ Discord-Bots, Minecraft-Plugins, Kleine-Websiten (Python/JavaScript, Java, HTML/CSS/JavaScript) [Coding-Projekte/Sprachen]
 - 🎮 ⨯ Programmieren, Treffen [Hobbys]
 - 🎥 ⨯ Schüler [Berufart]
 
