@@ -16,4 +16,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ToXyDEV&icon=3&color=3)](https://github.com/Timo1005)
+[![](https://visitcount.itsvg.in/api?id=ToXyDEV&icon=3&color=3)](https://visitcount.itsvg.in/)
