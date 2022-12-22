@@ -1,5 +1,7 @@
 <h1>Hello, Timo here!</h1>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/473737542630637569)](https://discord.com/users/473737542630637569)
+
 ---
 
 #### Languagues (since 03.12.2022):
