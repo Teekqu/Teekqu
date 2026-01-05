@@ -9,7 +9,7 @@
     </td>
     <td>
       <h2>Teekqu (18)</h2>
-      <b>Backend Developer</b><br><br>
+      <b>Developer</b><br><br>
       <div>
         <a href="https://www.teekqu.de/"><img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" width="26" /></a>
         <a href="mailto:timo@devload.eu"><img src="https://cdn-icons-png.flaticon.com/512/18154/18154191.png" width="26" /></a>
