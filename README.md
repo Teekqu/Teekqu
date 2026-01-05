@@ -11,7 +11,7 @@
       <h2>Teekqu (18)</h2>
       <b>Developer</b><br><br>
       <div>
-        <a href="https://www.teekqu.de/"><img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" width="26" /></a>
+        <a href="https://www.teekqu.dev/"><img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" width="26" /></a>
         <a href="mailto:timo@devload.eu"><img src="https://cdn-icons-png.flaticon.com/512/18154/18154191.png" width="26" /></a>
         <a href="https://github.com/Teekqu"><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="26" /></a>
         <a href="https://instagram.com/teekqutv"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="26" /></a>
