@@ -45,7 +45,7 @@
 
 <table>
   <tr align="center">
-    <td><img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" width="50"><br>Gradle</td>
+    <td><img src="https://images.icon-icons.com/3912/PNG/512/gradle_logo_icon_248152.png" width="50"><br>Gradle</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50"><br>Maven</td>
   </tr>
 </table>
