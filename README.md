@@ -8,7 +8,7 @@
       <img src="https://cdn.devload.eu/Teekqu.png" width="120" style="border-radius: 12px;" />
     </td>
     <td>
-      <h2>Teekqu (18)</h2>
+      <h2>Teekqu (19)</h2>
       <b>Developer</b><br><br>
       <div>
         <a href="https://www.teekqu.dev/"><img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" width="26" /></a>
