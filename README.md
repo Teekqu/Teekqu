@@ -17,8 +17,6 @@
         <a href="https://instagram.com/teekqutv"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="26" /></a>
         <a href="https://discord.com/users/473737542630637569"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png" width="26" /></a>
         <a href="https://www.x.com/teekqu"><img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="26" /></a>
-        <a href="https://www.youtube.com/@Teekqu"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" width="26" /></a>
-        <a href="https://www.twitch.tv/teekqu"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111668.png" width="26" /></a>
       </div>
     </td>
   </tr>
